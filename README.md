@@ -29,3 +29,11 @@ Segue por aqui algumas notas sobre o que eu aprendi com esse projeto.
     <br>
 </div>
 
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>PREENCHENDO AS CARACTERISTICAS DA CLASSE MODEL ROOM</strong></p>
+    <ul>
+        <li><strong>PARTE 3:</strong> Importando a lib javax para persistência dos dados. Populando a class model Room com atributos, getters and setter e um construtor. Connectando os componentes da classe ao banco de dados utilizando as annotations do javax(@Entity, @Table, @Id, @GeneratedValue, @Column). Também foi sobreescrito o método toString() com o intuito de retornar todas as informações da classe em formato de string.</li>
+    </ul>
+    <br>
+</div>
+
