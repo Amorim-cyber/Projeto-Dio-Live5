@@ -52,3 +52,11 @@ Segue por aqui algumas notas sobre o que eu aprendi com esse projeto.
     <br>
 </div>
 
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>IMPLEMENTANDO POST, PUT, GET E DELETE À CLASSE CONTROLLER</strong></p>
+    <ul>
+        <li><strong>PARTE 6:</strong> Importando a exception, model e repository para a classe controller RoomController. Importando todas as ferramentas de requisições http à classe(GetMapping, PostMappping, Autowired, RestController, etc). Declarando que a classe é um RestController. Permitindo que a classe tenha connexão ao frontend por meio da annotation @CrossOrigin. Determinando o endereço de chamada da classe por meio da annotation @RequestMapping. Criando o atributo do tipo RoomRepository e conectando ao banco por meio da annotation @Autowired. Criando o endpoint do tipo GET getAllRooms que vai retornar todas as salas de reunião. Criando o endpoint do tipo GET getRoomById que vai retornar uma determinada sala de reunião. Criando o endpoint do tipo POST createRoom responsável por criar uma nova sala.Criando o endpoint do tipo PUT updateRoom que irá atualizar os dados de uma sala já existente.Criado o endpoint do tipo DELETE deleteRoom que vai deletar uma sala existente.</li>
+    </ul>
+    <br>
+</div>
+
