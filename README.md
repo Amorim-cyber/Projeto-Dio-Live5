@@ -31,7 +31,7 @@ Para rodar o projeto localmente em sua maquina siga os seguintes passos:
    * Abra o arquivo Live5Application
    * Clique na seta verde indicada pelo circulo vermelho
 
-   <img src="img/rodar.PNG" style="border: solid grey; border-radius:4px"></img>
+   <img src="img/rodar.png" style="border: solid grey; border-radius:4px"></img>
 
 4. Para realizar os teste dos comandos HTTP utilizei a documentação do Swagger, para acessa-la digite `http://localhost:8082/swagger-ui.html` no seu navegador. **IMPORTANTE: A página só irá funcionar quando o servidor estiver de pé. **
 
