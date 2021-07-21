@@ -44,3 +44,11 @@ Segue por aqui algumas notas sobre o que eu aprendi com esse projeto.
     <br>
 </div>
 
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>POPULANDO AS CLASSES EXCEPTIONS ResourceNotFoundException/GlobalExceptionHandler</strong></p>
+    <ul>
+        <li><strong>PARTE 5:</strong> Importando HttpStatus e ResponseStatus para a classe exception ResourceNotFoundException. Declarando o tipo httpStatus que a classe irá receber por meio da annotation @ResponseStatus, fazendo-a herdar todas as propriedades de exception por meio do extends. Criando atributo e construtor para esta classe. Importando HttpStatus, ResponseEntity, ControllerAdvice, ExceptionHandler e WebRequest à classe GlobalExceptionHandler. Sinalizando que a classe é um controller advice por meio da annotation @ControllerAdvice. Criado o método de resposta resourceNotFoundException do tipo @ExceptionHandler que retorna uma mensagem de erro caso a diretiva Http não encontre o que foi solicitado. Criado o método de resposta globalExceptionHandler do tipo @ExceptionHandler que retorna uma mensagem de erro interna do servidor.</li>
+    </ul>
+    <br>
+</div>
+
