@@ -36,4 +36,11 @@ Segue por aqui algumas notas sobre o que eu aprendi com esse projeto.
     </ul>
     <br>
 </div>
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>DETERMINANDO REPOSITÓRIO, CONTROLLER E EXCEPTIONS</strong></p>
+    <ul>
+        <li><strong>PARTE 4:</strong> Criando a interface repositorio RoomRepository. Importando a classe model Room e as lib de repositório/JpaRepository. Declarando que a interface é um repositório por meio da annotation @Repository e fazendo-a herdar as propriedades da JpaRepository por meio do extends. Criando a classe controller RoomController ao projeto. Criando as classes exception ErrorDetails, GlobalExceptionHandler e ResourceNotFoundException. Determinando os atributos, construtor e os metodos getters e setters da classe exception ErrorDetails.</li>
+    </ul>
+    <br>
+</div>
 
