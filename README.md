@@ -4,7 +4,11 @@
 
 Fala pessoal, estou começando minha jornada neste quinto projeto da Digital Innovation One. Este projeto consiste em criar um gerenciador de salas de reuniões utilizando os recursos do java + angular.
 
-Esta parte do projeto aborda o desenvolvimento do backend da aplicação
+Esta primeira parte do projeto aborda o desenvolvimento do backend da aplicação
+
+Para ter acesso a segunda parte clique no link abaixo:
+
+https://github.com/Amorim-cyber/Projeto-Dio-Live5-FRONTEND
 
 Tenho aprendido muito com os projetos :smile:
 
